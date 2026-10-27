@@ -10,7 +10,7 @@
 <body>
 
     <h1>daftar Buku</h1>
-
+<!--menambahkan tombol untuk menambahkan buku baru-->
     <form action="create.php" method="POST">
         <p>
             judul:<br>
@@ -34,7 +34,6 @@
                 <option value="Belum Dibaca">Belum Dibaca</option>
             </select>
         </p>
-
         <button type="submit">Submit</button>
 
     </form>
