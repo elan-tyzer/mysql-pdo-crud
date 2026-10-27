@@ -14,7 +14,7 @@
     <form action="create.php" method="POST">
         <p>
             judul:<br>
-            <input type="text" name="nama" required>
+            <input type="text" name="judul" required>
         </p>
 
         <p>
